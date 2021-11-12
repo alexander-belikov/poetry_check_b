@@ -11,7 +11,7 @@ develop = true
 type = "git"
 url = "https://github.com/alexander-belikov/poetry_check_a.git"
 reference = "main"
-resolved_reference = "c26bc6f3ebe79b4ff10189d100001a8aebe51412"
+resolved_reference = "aeb44116354ad757eb3773f7f3f9299dd24ba1b4"
 
 [metadata]
 lock-version = "1.1"
