@@ -1,4 +1,17 @@
-package = []
+[[package]]
+name = "poetry-check-a"
+version = "1.0.1"
+description = "Data transformations"
+category = "dev"
+optional = false
+python-versions = "~3.7.1"
+develop = true
+
+[package.source]
+type = "git"
+url = "https://github.com/alexander-belikov/poetry_check_a.git"
+reference = "main"
+resolved_reference = "c26bc6f3ebe79b4ff10189d100001a8aebe51412"
 
 [metadata]
 lock-version = "1.1"
@@ -6,3 +19,4 @@ python-versions = "~3.7.1"
 content-hash = "1e72abed8dc7291907203e4a1889c59556e5674d55a063c6470262f072542963"
 
 [metadata.files]
+poetry-check-a = []
